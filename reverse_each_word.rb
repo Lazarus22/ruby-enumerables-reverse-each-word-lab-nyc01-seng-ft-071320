@@ -4,3 +4,4 @@ def reverse_each_word(new_hash)
       {k => v.to_s}
   end
 end
+end
