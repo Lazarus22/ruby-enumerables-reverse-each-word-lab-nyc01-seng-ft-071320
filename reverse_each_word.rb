@@ -3,6 +3,5 @@ new_hash = {}
    hash.each do |key, value|
     new_hash << value.reverse
   end
-  new_hash
-end
+new_hash
 end
